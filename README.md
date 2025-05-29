@@ -99,7 +99,7 @@ Challenge Key: yyyyyyyyyyyyy
 
 ## 🌐 6. Register Your Node
 
-1. Go to [https://blockcast.one](https://blockcast.one)
+1. Go to [Blockcast Node](https://app.blockcast.network?referral-code=EX3UaJ)
 2. Sign up / Log in with your email
 3. Connect your Solana wallet
 4. Link Twitter & Discord
@@ -127,4 +127,4 @@ docker logs -f blockcastd
 ## 🔗 Resources
 
 - [Official Blockcast Repo](https://github.com/Blockcast/beacon-docker-compose)
-- [Blockcast Platform](https://blockcast.one)
+- [Blockcast Platform](https://app.blockcast.network/)
